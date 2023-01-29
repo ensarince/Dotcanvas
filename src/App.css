@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.btn{
+    padding: 1em;
+    background: #63fef7;
+    border-radius: 10%;
+    z-index: 100;
+}
+.btn:hover , .btn:focus{
+    background: #7ac5c1;
+}
